@@ -3,4 +3,4 @@ As my first html project, I'm revising an essay I wrote in 2018 for an Invertebr
 to practice the structural and semantic foundations of html code. For example the bibliography will be an example of lists and link tags. I will endevour to
 make the body of the paper accessable and friendly to screen reader apps.  
 
-![essay screenshot](https://user-images.githubusercontent.com/103965827/185760988-339cc5ef-dd1a-4724-aa72-dc9b758a9398.PNG)
+![screenshot3](https://user-images.githubusercontent.com/103965827/186309877-56931c5e-177d-4f32-878d-97b20caf02b4.png)
